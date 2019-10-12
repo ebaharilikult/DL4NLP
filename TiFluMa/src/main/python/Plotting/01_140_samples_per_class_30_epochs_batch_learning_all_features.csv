@@ -1,0 +1,41 @@
+X	Neil Young	Hillsong	Rolling Stones	Gordon Lightfoot	Loretta Lynn	Bob Dylan	Michael W. Smith	Chaka Khan	Reba Mcentire	Hank Williams Jr.	Kinks	Bon Jovi	Dean Martin	Alabama	Rod Stewart	Randy Travis	Iggy Pop	Cher	Neil Diamond	America	Indigo Girls	Fleetwood Mac	Deep Purple	Dolly Parton	Nick Cave	Korn	James Taylor	Michael Jackson	Johnny Cash	Cliff Richard	Green Day	Nazareth	Donna Summer	George Strait	Kiss	The Beatles	Kylie Minogue	Elton John	Joni Mitchell	Morrissey	
+Neil Young	1	0	1	1	0	3	0	0	0	2	0	0	1	0	1	0	1	2	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+Hillsong	0	7	0	0	0	0	4	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rolling Stones	0	0	1	1	0	0	0	0	3	1	0	1	0	1	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	
+Gordon Lightfoot	0	0	0	7	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	
+Loretta Lynn	0	0	0	3	5	0	2	1	2	3	1	1	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	2	0	1	0	1	0	0	0	0	0	0	0	
+Bob Dylan	1	1	2	0	1	3	0	0	0	0	2	0	0	2	1	1	0	1	0	0	1	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	1	0	
+Michael W. Smith	0	4	0	0	0	0	5	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	
+Chaka Khan	0	0	0	1	0	0	0	3	2	0	0	1	0	1	2	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	1	0	0	0	0	
+Reba Mcentire	0	2	0	2	0	0	0	0	6	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	2	0	0	1	0	1	0	
+Hank Williams Jr.	0	0	2	3	1	1	0	0	1	3	0	0	2	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	
+Kinks	1	0	0	2	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	
+Bon Jovi	0	1	3	0	0	1	0	1	2	0	0	2	0	0	1	1	2	1	0	0	0	0	0	0	0	0	0	2	0	0	0	1	1	0	0	0	0	0	0	0	
+Dean Martin	0	0	0	0	0	0	0	1	0	0	0	0	4	0	2	0	0	1	0	0	0	0	1	0	0	0	1	0	2	0	0	1	0	0	0	1	0	0	0	0	
+Alabama	0	0	1	0	0	1	0	1	4	0	0	1	0	2	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	3	0	1	0	0	0	0	0	0	
+Rod Stewart	0	0	2	0	0	0	1	0	2	0	0	6	1	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	
+Randy Travis	0	3	0	0	3	0	1	0	2	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	1	0	0	0	
+Iggy Pop	1	0	3	0	1	0	1	0	1	1	0	0	1	0	2	0	2	1	0	0	0	0	1	0	0	2	0	1	0	1	0	0	0	0	0	0	0	0	2	0	
+Cher	1	0	0	0	0	0	0	0	2	2	0	1	0	1	1	1	0	3	0	0	0	0	1	0	0	1	1	1	0	0	0	0	1	0	1	1	0	0	0	0	
+Neil Diamond	0	0	0	1	0	0	0	0	0	1	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	1	2	1	0	0	0	1	0	1	0	0	0	1	0	
+America	0	0	0	2	1	0	2	0	0	1	1	0	0	0	1	0	0	0	0	1	1	0	1	0	0	0	1	0	2	0	0	0	0	0	0	2	0	0	0	0	
+Indigo Girls	0	0	0	1	1	1	1	0	2	0	0	0	0	0	0	0	0	1	0	0	2	0	2	0	0	0	1	1	0	1	0	0	0	0	1	1	0	1	0	1	
+Fleetwood Mac	0	0	0	0	0	0	0	0	1	0	1	1	2	1	4	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	1	0	
+Deep Purple	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	0	0	1	1	0	0	0	0	2	0	0	0	0	0	1	0	0	
+Dolly Parton	0	0	0	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	0	0	0	0	3	0	0	0	2	1	0	0	1	0	0	0	0	0	0	0	0	
+Nick Cave	0	0	1	1	0	1	1	0	1	0	1	1	2	0	0	2	0	0	0	0	0	0	2	0	3	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	
+Korn	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	1	0	0	0	0	0	0	0	0	4	1	0	0	0	0	0	0	0	1	0	0	0	0	0	
+James Taylor	1	0	2	0	1	1	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	
+Michael Jackson	0	0	0	1	0	0	0	0	0	0	1	1	4	1	3	0	0	2	0	0	0	1	0	1	1	0	0	4	0	0	0	0	0	0	1	0	0	1	1	0	
+Johnny Cash	0	1	3	1	0	4	1	0	2	1	0	0	0	0	0	1	0	1	0	0	0	0	1	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Cliff Richard	0	0	2	0	0	0	0	0	0	0	0	0	0	2	1	0	1	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Green Day	0	0	2	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	3	0	0	0	0	1	2	0	0	0	
+Nazareth	0	0	1	0	1	1	0	0	1	0	0	1	0	0	1	0	0	1	0	0	0	0	1	0	0	1	1	0	0	1	1	1	0	0	0	0	0	0	1	0	
+Donna Summer	0	0	0	2	0	0	2	1	0	0	0	0	0	1	0	0	1	2	0	0	0	0	0	0	0	0	1	0	0	0	0	1	2	0	1	0	2	0	0	0	
+George Strait	0	0	1	0	1	0	1	0	5	0	0	1	1	0	0	1	1	2	0	0	0	1	0	0	0	0	1	1	0	1	0	1	0	0	1	0	0	0	0	0	
+Kiss	0	0	0	0	0	0	0	0	2	1	0	1	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	1	0	0	0	1	1	1	2	1	1	0	0	0	
+The Beatles	1	0	3	0	1	0	1	0	2	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	2	1	0	0	0	1	0	0	2	3	0	0	1	0	
+Kylie Minogue	0	0	3	1	0	0	0	1	3	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	2	0	1	0	0	0	1	0	0	0	0	2	0	0	0	
+Elton John	0	0	1	2	1	0	1	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	2	1	0	0	1	1	0	1	1	0	3	0	
+Joni Mitchell	1	0	0	0	1	0	0	0	0	0	1	0	0	1	1	1	0	1	0	0	0	0	1	1	1	0	0	1	0	0	0	0	0	0	1	1	0	0	1	0	
+Morrissey	0	0	2	2	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	1	1	0	0	0	2	1	0	0	0	2	0	0	0	1	
